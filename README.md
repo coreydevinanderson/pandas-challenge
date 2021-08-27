@@ -1,4 +1,5 @@
-# pandas-challenge
+### video-game-customer-data-analysis
+
 Video game (HeroesOfPymoli) customer dataset munging and analysis with 'pandas' in Python
 
 
