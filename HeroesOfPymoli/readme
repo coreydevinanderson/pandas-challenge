@@ -1,5 +1,14 @@
-This repository contains Python code-using jupyter notebook-for
-the pandas-challege HeroesOfPymoli video game data set.
+This repository contains Python code in jupyter notebook file for the HeroesOfPymoli video game data set.
 
-All code was written by Corey D. Anderson as part of the Georgia
-Tech Data Science and Analytics Bootcamp.
+Data were imported and cleaned in 'pandas'.
+
+Directory structure:
+
+/Resources/puchase_data.csv
+
+/HeroesOfPymoli_starter.ipynb
+
+/readme
+
+
+All code was written by Corey D. Anderson.
