@@ -12,7 +12,7 @@ Directory structure:
 
 /Resources/puchase_data.csv
 
-/HeroesOfPymoli_starter.ipynb
+/HeroesOfPymol.ipynb
 
 /readme
 
